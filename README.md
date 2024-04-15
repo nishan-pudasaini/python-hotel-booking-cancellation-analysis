@@ -35,6 +35,6 @@ The hospitality industry faces challenges with high cancellation rates, leading 
 
 By analyzing hotel booking cancellation trends and implementing targeted strategies, hotels can optimize revenue generation and improve operational efficiency.
 
-## Contributer
+## Contributor
 Nishan Pudasaini
 
