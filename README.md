@@ -10,8 +10,8 @@ The hospitality industry faces challenges with high cancellation rates, leading 
 
 ## Contents
 
-- **Hotel_Booking_Cancellation_Analysis.ipynb**: Jupyter Notebook containing Python code for data analysis.
-- **Hotel_Booking_Cancellation_Report.pdf**: Detailed report outlining analysis findings, hypotheses, recommendations, and conclusions.
+- **Python_Analysis.ipynb**: Jupyter Notebook containing Python code for data analysis.
+- **Descriptive_Report.pdf**: Detailed report outlining analysis findings, hypotheses, recommendations, and conclusions.
 
 ## Analysis Highlights
 
@@ -34,3 +34,7 @@ The hospitality industry faces challenges with high cancellation rates, leading 
 ## Conclusion
 
 By analyzing hotel booking cancellation trends and implementing targeted strategies, hotels can optimize revenue generation and improve operational efficiency.
+
+## Contributer
+Nishan Pudasaini
+
